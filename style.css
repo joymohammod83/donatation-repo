@@ -1,0 +1,181 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    margin-top: -20px;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+.header-section {
+    background-image: url('images/donation9.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    padding: 150px 300px;
+}
+
+.header-section h1 {
+    font-size: 50px;
+    color: rgb(211, 21, 21);
+}
+
+.header-section p {
+    font-size: 20px;
+    color: rgba(30, 12, 12, 0.754);
+}
+
+.header-section button {
+    padding: 8px 28px;
+    background-color: rgb(19, 81, 3);
+    color: white;
+    border: none;
+}
+
+.header-section button:hover {
+    padding: 8px 28px;
+    background-color: rgb(140, 87, 3);
+    color: white;
+    border: none;
+}
+
+.taka-box {
+    height: 80px;
+    width: 100px;
+    background-color: bisque;
+    text-align: center;
+    margin-left: 30px;
+
+}
+
+.taka-section {
+    display: flex;
+    margin-top: 70px;
+}
+
+.taka-box h3 {
+    padding-top: 15px;
+}
+
+.donate-section {
+    padding: 150px 300px;
+    text-align: center;
+}
+
+.button {
+    padding: 8px 28px;
+    background-color: rgb(19, 81, 3);
+    color: white;
+    border: none;
+    margin-top: 50px;
+}
+
+.input {
+    width: 100%;
+    border: none;
+    margin-top: 20px;
+    border-bottom: 1px solid black;
+
+}
+
+.taka-box1 {
+    height: 80px;
+    width: 100px;
+    background-color: bisque;
+    text-align: center;
+    margin-left: 30px;
+    color: rgb(219, 10, 10);
+    border: 2px solid red;
+
+}
+
+.donate-p {
+    padding: 20px 350px;
+    text-align: center;
+}
+
+.donate-plan {
+    text-align: center;
+}
+
+.icon {
+    height: 40px;
+}
+
+.plan-section {
+    display: flex;
+    padding: 40px 100px;
+}
+
+.donate {
+    margin-left: 30px;
+    background-color: rgb(4, 132, 87);
+    padding: 20px 40px;
+    color: white;
+}
+
+.donate1 {
+    margin-left: 30px;
+    background-color: rgb(2, 35, 72);
+    padding: 20px 40px;
+    color: white;
+}
+
+.donate2 {
+    margin-left: 30px;
+    background-color: rgb(120, 4, 155);
+    padding: 20px 40px;
+    color: white;
+}
+
+.fav-person {
+    height: 200px;
+    width: 400px;
+}
+
+.big-human {
+    display: flex;
+}
+
+.real-hero {
+    margin-left: 10px;
+}
+
+.update {
+    text-align: center;
+    font-size: 40px;
+    padding: 30px 20px;
+}
+
+.email {
+    background-color: rgb(37, 26, 10);
+    margin: 20px 300px;
+}
+
+.input-1 {
+    padding: 80px 100px;
+    display: flex;
+}
+
+.inputt-2 {
+    height: 30px;
+    width: 80%;
+    border: none;
+}
+
+.youtube {
+    background-color: red;
+    color: white;
+    border: none;
+}
+
+/* footer section css start */
+footer {
+    background-color: white;
+    color: white;
+    padding: 50px 200px;
+    margin-top: 50px;
+}
+
+.mail {
+    text-align: center;
+}
